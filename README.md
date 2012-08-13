@@ -17,3 +17,4 @@ Providers
 * [Joyent](http://apidocs.joyent.com/sdcapidoc/cloudapi/)
 * [Amazon EC2](http://docs.amazonwebservices.com/AWSEC2/latest/APIReference/Welcome.html)
 * [Rackspace](http://docs.rackspace.com/api/)
+* [Linode](https://github.com/fictorial/linode-api)
